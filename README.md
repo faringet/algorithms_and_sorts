@@ -1,5 +1,5 @@
 # Algorithms & Sorts
-this repository contains various algorithms and sortings:
+This repository contains various algorithms and sortings:
 
 
 
@@ -23,7 +23,7 @@ ___
 
 #### Bubble sort O(n²)
 
-![Screenshot](3d landscape.png)
+![logo](https://upload.wikimedia.org/wikipedia/commons/5/54/Sorting_bubblesort_anim.gif)
 ___
 
 #### Comb sort O(n²)
