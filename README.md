@@ -9,14 +9,24 @@ dot products of which are then interpolated to obtain values in between the latt
 
 Noise visualization:
 
-![logo](https://upload.wikimedia.org/wikipedia/commons/5/54/Sorting_bubblesort_anim.gif?20140912160204) 
+
+
+
+
+
+![Screenshot](fractal_noise.png) 
+
+
+
+
+
 
 If you use the generated noise as a height map, you can get a terrain that can be used to generate a 3D landscape:
 ___
 
 #### Bubble sort O(n²)
 
-![logo](https://upload.wikimedia.org/wikipedia/commons/5/54/Sorting_bubblesort_anim.gif?20140912160204) 
+![Screenshot](3d landscape.png)
 ___
 
 #### Comb sort O(n²)
