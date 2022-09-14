@@ -11,12 +11,7 @@ Noise visualization:
 
 
 
-
-
-
-![Screenshot](fractal_noise.png) 
-
-
+![Screenshot](fractal_noise demo.png) 
 
 
 
