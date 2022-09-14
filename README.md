@@ -11,12 +11,14 @@ Noise visualization:
 
 
 
-![Screenshot](fractal_noise demo.png) 
+![Screenshot](fractal_noise_demo.png)
 
 
 
 
 If you use the generated noise as a height map, you can get a terrain that can be used to generate a 3D landscape:
+
+![Screenshot](3d_landscape.png)
 ___
 
 #### Bubble sort O(n²)
