@@ -6,6 +6,7 @@ public class CombSort {
 
     public static void main(String[] args) {
         int[] array = new int[] {64, 73, 41, 32, 53, 16, 24, 57, 42, 74, 55, 36};
+
         sort(array);
         System.out.println(Arrays.toString(array));
     }
