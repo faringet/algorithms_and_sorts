@@ -58,3 +58,9 @@ ___
 #### Selection sort O(n²)
 
 ![logo](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sorting_selection_sort_anim.gif) 
+___
+
+#### Quine
+A droll program which takes no input and produces a copy of its own source code as its only output:
+
+![Screenshot](quine.png)
